@@ -50,6 +50,7 @@ class ViewController: UIViewController {
         
     }
 
+
     func update2()  {
         
     }
@@ -58,15 +59,25 @@ class ViewController: UIViewController {
     func update4()  {
         
     }
+
     
     func haitran()  {
         
     }
+
     
     func singuyen()  {
   
     }
-    func name3()  {
+    func name3()  {}
+
+    func new2()  { }
+    func new()  {
+    }
+    func update5()  {}
+
+    func name()  { }
+    func name1()  {
         
     }
     override func didReceiveMemoryWarning() {
