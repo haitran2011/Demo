@@ -63,7 +63,7 @@ class ViewController: UIViewController {
         
     }
     
-    func singuyen()  {
+    func singuyen3()  {
   
     }
     override func didReceiveMemoryWarning() {
