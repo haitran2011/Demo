@@ -49,6 +49,11 @@ class ViewController: UIViewController {
     func update()  {
         
     }
+
+    func update2()  {
+        
+    }
+
     
     func update4()  {
         
