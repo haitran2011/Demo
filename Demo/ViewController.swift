@@ -85,6 +85,14 @@ class ViewController: UIViewController {
         
     }
     
+    func namehai3()  {
+        
+    }
+    
+    func namehai4()  {
+        
+    }
+    
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
