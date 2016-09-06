@@ -62,6 +62,10 @@ class ViewController: UIViewController {
     func haitran()  {
         
     }
+    
+    func haiupdate()  {
+        
+    }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
