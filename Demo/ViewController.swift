@@ -63,8 +63,8 @@ class ViewController: UIViewController {
         
     }
     
-    func haiupdate()  {
-        
+    func singuyen()  {
+  
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
