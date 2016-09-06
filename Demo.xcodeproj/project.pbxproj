@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FC8DCECA1D7D544E00AB3723 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FC8DCEC81D7D544E00AB3723 /* Model.xcdatamodeld */; };
 		FCEDC0C91D7D48C500F60944 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCEDC0C81D7D48C500F60944 /* AppDelegate.swift */; };
 		FCEDC0CB1D7D48C500F60944 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCEDC0CA1D7D48C500F60944 /* ViewController.swift */; };
 		FCEDC0CE1D7D48C500F60944 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCEDC0CC1D7D48C500F60944 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FC8DCEC91D7D544E00AB3723 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
 		FCEDC0C51D7D48C500F60944 /* Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCEDC0C81D7D48C500F60944 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FCEDC0CA1D7D48C500F60944 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				FCEDC0CF1D7D48C500F60944 /* Assets.xcassets */,
 				FCEDC0D11D7D48C500F60944 /* LaunchScreen.storyboard */,
 				FCEDC0D41D7D48C500F60944 /* Info.plist */,
+				FC8DCEC81D7D544E00AB3723 /* Model.xcdatamodeld */,
 			);
 			path = Demo;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				FCEDC0CB1D7D48C500F60944 /* ViewController.swift in Sources */,
 				FCEDC0C91D7D48C500F60944 /* AppDelegate.swift in Sources */,
+				FC8DCECA1D7D544E00AB3723 /* Model.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -484,6 +488,7 @@
 				FCEDC0EF1D7D48C500F60944 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FCEDC0F01D7D48C500F60944 /* Build configuration list for PBXNativeTarget "DemoTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +497,7 @@
 				FCEDC0F21D7D48C500F60944 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FCEDC0F31D7D48C500F60944 /* Build configuration list for PBXNativeTarget "DemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,8 +506,22 @@
 				FCEDC0F51D7D48C500F60944 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		FC8DCEC81D7D544E00AB3723 /* Model.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				FC8DCEC91D7D544E00AB3723 /* Model.xcdatamodel */,
+			);
+			currentVersion = FC8DCEC91D7D544E00AB3723 /* Model.xcdatamodel */;
+			path = Model.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = FCEDC0BD1D7D48C500F60944 /* Project object */;
 }
