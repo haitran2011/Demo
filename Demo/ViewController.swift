@@ -80,6 +80,20 @@ class ViewController: UIViewController {
     func name1()  {
         
     }
+    
+    func name2()  {
+        
+    }
+    
+    func namehai3()  {
+        
+    }
+    
+    func namehai4()  {
+        
+    }
+    
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
