@@ -43,6 +43,9 @@ class ViewController: UIViewController {
     func create()  {
         
     }
+    func delete()  {
+    
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
