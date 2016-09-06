@@ -69,8 +69,10 @@ class ViewController: UIViewController {
     }
     func name3()  {}
 
-    func new2()  {
-
+    func new2()  { }
+    func new()  {
+    }
+    func update5()  {
         
     }
     override func didReceiveMemoryWarning() {
