@@ -39,6 +39,10 @@ class ViewController: UIViewController {
         print(count1)
         print(count2)
     }
+    
+    func create()  {
+        
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
