@@ -62,8 +62,9 @@ class ViewController: UIViewController {
     func haitran()  {
         
     }
+    
     func singuyen()  {
-        
+  
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
