@@ -62,6 +62,9 @@ class ViewController: UIViewController {
     func haitran()  {
         
     }
+    func singuyen()  {
+        
+    }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
