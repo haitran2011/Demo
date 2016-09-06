@@ -66,7 +66,7 @@ class ViewController: UIViewController {
     }
 
     
-    func singuyen()  {
+    func singuyen3()  {
   
     }
     func name3()  {}
