@@ -93,6 +93,22 @@ class ViewController: UIViewController {
         
     }
     
+    func newFun()  {
+        
+    }
+    
+    func newFun2()  {
+        
+    }
+    
+    func newFun3()  {
+        
+    }
+    
+    func newFun4()  {
+        
+    }
+
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
